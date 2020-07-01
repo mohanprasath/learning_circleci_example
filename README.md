@@ -1,8 +1,12 @@
 # Aim
 To use CircleCI in a project as an example for CI tasks and generating the status badge.
+
 [![CircleCI](https://circleci.com/gh/mohanprasath/learning_circleci_example.svg?style=svg)](https://circleci.com/gh/circleci/circleci-docs)
 
-----------------------------------------------------
+[![CircleCI](https://circleci.com/gh/mohanprasath/learning_circleci_example.svg?style=plastic&logo=appveyor)](https://circleci.com/gh/circleci/circleci-docs)
+
+
+--------------------------------------------------------------------------------
 # Deprecation Warning
 
 This project was started at the advent of the Redux ecosystem, and was intended to help users get up and running quickly. Since then, tooling and best practices have evolved tremendously. In order to get the most modern experience possible, I recommend checking out something like [create-react-app](https://github.com/facebookincubator/create-react-app) which is supported by many core React and Redux developers.
