@@ -3,7 +3,7 @@ To use CircleCI in a project as an example for CI tasks and generating the statu
 
 [![CircleCI](https://circleci.com/gh/mohanprasath/learning_circleci_example.svg?style=svg)](https://circleci.com/gh/circleci/circleci-docs)
 
-[![CircleCI](https://circleci.com/gh/mohanprasath/learning_circleci_example.svg?style=plastic&logo=appveyor)](https://circleci.com/gh/circleci/circleci-docs)
+https://img.shields.io/circleci/build/gh/mohanprasath/learning_circleci_example
 
 
 --------------------------------------------------------------------------------
